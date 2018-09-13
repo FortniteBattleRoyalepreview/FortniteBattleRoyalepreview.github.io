@@ -78,7 +78,7 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": false,
-            "imageSize": "57",
+            "imageSize": "61",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photoshop-wallpapers-2-1024x768.jpg",
             "parallax": true,
